@@ -4,6 +4,9 @@ An AI that plays the game Tetris!
 
 Built using `p5.js`.
 
+## Neural Network Inputs
+<img src="media/inputs.png" height=300>
+
 ## Initial Prototype
 <img src="media/gif_1st_proto.gif" height=300>
 
